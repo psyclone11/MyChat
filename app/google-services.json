@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "164680730810",
+    "firebase_url": "https://mychitchat-e745d.firebaseio.com",
+    "project_id": "mychitchat-e745d",
+    "storage_bucket": "mychitchat-e745d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164680730810:android:a45554e68e4af54f",
+        "android_client_info": {
+          "package_name": "com.example.psyclone.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164680730810-fqklo7uihalh6vmuc6il3rj4nk9mdc1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC940kWxY6vhiH_XmbR5WUy7cV5hzyIbJ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
